@@ -23,3 +23,6 @@ User privacy and data security are top priorities. Health information is managed
 ### 📈 Continuous Improvement
 Built for **continuous enhancement**, this system’s machine learning models evolve with more data, ensuring increasingly accurate and relevant recommendations.
 
+## 📏 Medicine Recommendation System Dataset
+The dataset used in this project is available on Kaggle:
+[Medicine Recommendation System Dataset](https://www.kaggle.com/datasets/noorsaeed/medicine-recommendation-system-dataset)
